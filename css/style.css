@@ -570,4 +570,8 @@ body {
   .faq-title {
     font-size: 30px;
   }
+
+  #footer-logo {
+    margin-left: 45%;
+  }
 }
